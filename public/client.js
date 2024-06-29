@@ -40,3 +40,6 @@ function displayMessage(data) {
   // Automatically scroll to bottom
   chatMessages.scrollTop = chatMessages.scrollHeight;
 }
+
+
+// comment added for testing purpose..
