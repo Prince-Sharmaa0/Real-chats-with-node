@@ -7,7 +7,6 @@ const mysql = require('mysql2');
 const app = express();
 const server = http.createServer(app);
 const io = socketIo(server);
-
 // MySQL connection
 const db = mysql.createConnection({
   host: 'localhost',
