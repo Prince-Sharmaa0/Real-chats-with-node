@@ -1,0 +1,6 @@
+# Ignore node_moules directory
+
+node_modules/
+
+#other entries...
+
